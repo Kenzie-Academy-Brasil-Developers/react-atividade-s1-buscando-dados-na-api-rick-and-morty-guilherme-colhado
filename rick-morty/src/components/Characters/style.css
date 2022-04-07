@@ -1,0 +1,12 @@
+.Lista ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.Lista li{
+    margin: 20px 12.5px;
+}
