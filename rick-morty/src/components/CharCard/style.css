@@ -12,6 +12,6 @@
 }
 
 .Dead, .unknown{
-    color: red;
     background-color: coral;
+    color: red;
 }
